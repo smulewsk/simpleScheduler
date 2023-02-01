@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
 
-project(simple_scheduler)
+project(simpleScheduler)
 
-add_executable(simple_scheduler main.c)
+add_executable(simpleScheduler main.c)
